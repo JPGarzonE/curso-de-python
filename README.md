@@ -42,6 +42,11 @@ en el que se trabaje.
   ```
   venv\Scripts\activate
   ```
+  
+ - #### Apagar un entorno virtual
+  ```
+  deactivate
+  ```
 
 - #### Ver las dependencias instaladas en el entorno virtual
   ```
