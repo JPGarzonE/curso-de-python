@@ -7,6 +7,8 @@ Apuntes del curso básico de Python by Platzi
 
 Python es un lenguaje de programación creado por Guido Van Rossum, con una sintaxis muy limpia, ideado para enseñar a la gente a programar bien. Se trata de un lenguaje interpretado o de script.
 
+[DOCUMENTACIÓN DE PYTHON 3](https://docs.python.org/3/)
+
 ## Instalación
 
 Existen dos versiones de Python que tienen gran uso actualmente, Python 2.x y Python 3.x, para este curso puedes utilizar cualquiera de las dos, pero yo Juan Pablo Garzón te recomendamos usar una versión 3.x ya que la 2.x no recibe más soporte.
