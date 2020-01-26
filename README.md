@@ -1,5 +1,59 @@
 # Curso de python
-Apuntos del curso básico de Python by Platzi
+Apuntes del curso básico de Python by Platzi
+
+[Presentación principal del curso](https://static.platzi.com/media/public/uploads/curso-python-platzi_f311af99-c15a-48e3-983d-5e8c096012c0.pdf)
+
+## ¿Qué es Python?
+
+Python es un lenguaje de programación creado por Guido Van Rossum, con una sintaxis muy limpia, ideado para enseñar a la gente a programar bien. Se trata de un lenguaje interpretado o de script.
+
+## Instalación
+
+Existen dos versiones de Python que tienen gran uso actualmente, Python 2.x y Python 3.x, para este curso puedes utilizar cualquiera de las dos, pero yo Juan Pablo Garzón te recomendamos usar una versión 3.x ya que la 2.x no recibe más soporte.
+
+Para instalar Python solo debes seguir los pasos dependiendo del sistema operativo que tengas instalado.
+
+  - ### Windows
+  
+    Para instalarlo en Windows, debemos ir a https://www.python.org/downloads/release/python-2716/ el sitio reconocerá el sistema           operativo y te dará las opciones para descargar.
+
+    Ejecuta el archivo que descargaste y sigue los pasos de instalación. Al finalizar vas a poder utilizar Python en tu computador y         estás listo para continuar con el curso.
+  
+  - ### MacOS
+  
+    La forma sencilla es tener instalado [homebrew](https://brew.sh/) y usar el comando:
+
+      - #### Para instalar la Versión 2.7
+
+            brew install python
+            
+      - #### Para instalar la Versión 3.x
+
+            brew install python3
+            
+  - ### Linux
+    
+    Generalmente Linux ya lo trae instalado, para comprobarlo puedes ejecutar en la terminal el comando
+
+      - #### Versión 2.7
+
+            python -v
+
+      - #### Versión 3.x
+
+            python3 -v
+
+    Si el comando arroja un error quiere decir que no lo tienes instalado, en ese caso los pasos para instalarlo cambian un poco de         acuerdo con la distribución de linux que estés usando. Generalmente el gestor de paquetes de la distribución de Linux tiene el           paquete de Python
+    
+    #### Si eres usuario de Ubuntu o Debian por ejemplo puedes usar este comando para instalar la versión 3.1:
+
+        $ sudo apt-get install python3.1
+
+    #### Si eres usuario de Red Hat o Centos por ejemplo puedes usar este comando para instalar python
+
+        $ sudo yum install python
+
+    Si usas otra distribución y eres usuario habitual de linux también puedes descargar los archivos para instalarlo manualmente.
 
 ## Entorno Virtual en Python:
 
